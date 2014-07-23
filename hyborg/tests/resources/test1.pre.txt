@@ -1,0 +1,11 @@
+Good news, everyone! We're releasing
+[hylang/0.10.0](https://github.com/hylang/hy/releases/tag/0.10.0)
+
+ - [ ] Debian: upload src:hy
+ - [ ] PyPI: upload hy
+ - [ ] Blocker: #353
+ - [ ] Blocker: #34A6
+ - [ ] Blocker: #345
+ - [ ] Blocker: #347
+ - [ ] Blocker: #345
+ - [ ] Blocker: #348
